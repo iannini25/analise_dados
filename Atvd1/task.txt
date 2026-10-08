@@ -1,0 +1,2 @@
+Faça no Jupyter Notebook
+A atividade está no final do notebook.

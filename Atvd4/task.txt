@@ -1,0 +1,25 @@
+1 - Abra uma pasta do projeto
+2 - Inclua a tabela anexa a pasta
+3 - Crie um notebook 
+4 - Leia a tabela
+5 - Crie uma tabela de população agregada por estado
+6 - Organize essa tabela por população que mais cresceu entre 2022 e 2010 (Faça a diferença se necessário)
+7 - Salve essa tabela nova em csv na pasta do seu projeto
+8 - Agora trabalhe por município
+9 - Organize essa tabela por população que mais cresceu entre 2022 e 2010 (Faça a diferença se necessário)
+10 - Salve essa tabela nova em csv na pasta do seu projeto
+
+
+variavel_a_criar= (
+    NOME DO DF.groupby("COLUNA A AGREGAR")[["COLUNAS NUMERICAS", "
+
+["COLUNAS NUMERICAS"]]
+    .sum()
+    .reset_index()
+))
+
+
+como salvar
+
+
+NOMEDODF.to_csv(r"caminho/NOMEDOARQUIVOQUEVOCEQUER.csv", sep =";")
