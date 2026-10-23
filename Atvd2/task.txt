@@ -1,2 +1,0 @@
-Calcule os indicadores no final do notebook.
-Suba os notebooks para o repositório.
